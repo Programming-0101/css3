@@ -1,0 +1,13 @@
+@font-face {
+  font-family: 'Whitney';
+  src: URL('fonts/Whitney Medium.ttf') format('ttf');
+}
+
+body {
+  font-family: "Whitney",  "Whitney SSm A", "Whitney SSm B", Lato, "Lucida Grande", "Lucida Sans Unicode", Tahoma, sans-serif;
+  font-size: 22px;
+}
+
+h1, h2, h3, h4, h5, h6, th {
+  font-family: "Whitney Cond A", "Whitney Cond B", Lato, "Lucida Grande", "Lucida Sans Unicode", Tahoma, sans-serif
+}
